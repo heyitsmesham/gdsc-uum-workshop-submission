@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <Myself>CSS Introduction</title>
+    </head>
+    <body>
+        <h1>Introduction about myself</h1>
+        <p>Example of unordered lists:</p>
+            <ul point 1="a">
+                <li>Name</li>
+                <li>Age</li>
+                <li>Gender</li>
+            </ul>
+            <ul point 2="b">
+                <li>Name</li>
+                <li>Age</li>
+                <li>Gender</li>
+            </ul>
+        <p>Example of ordered lists:</p>
+            <ol point 3="c">
+                <li>Name</li>
+                <li>Age</li>
+                <li>Gender</li>
+            </ol>
+            <ol point 4="d">
+                <li>Name</li>
+                <li>Age</li>
+                <li>Gender</li>
+            </ol>
+            <table border="5" cellpadding="5" cellspacing="0">
+                <tr>
+                    <th></th>
+                    <th>Country</th>
